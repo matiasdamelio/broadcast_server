@@ -19,7 +19,7 @@ python server.py
 ### Server Side
 ![Server Side](images/serverside_example.jpg)
 ### Client Side
-![ClientSide](images/serverside_example.jpg)
+![ClientSide](images/clientside_example.jpg)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
