@@ -17,9 +17,9 @@ python server.py
 
 ## Example
 ### Server Side
-![Server Side](images/serverside_example.png)
+![Server Side](images/serverside_example.jpg)
 ### Client Side
-![ClientSide](images/serverside_example.png)
+![ClientSide](images/serverside_example.jpg)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
